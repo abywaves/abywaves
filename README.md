@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://www.withaby.com/docs/Aby-DESIGN-portfolio.pdf](https://www.withaby.com/docs/Aby-DESIGN-portfolio.pdf)
+- 👨‍💻 Some of my old design projects are available at [https://www.withaby.com/docs/Aby-DESIGN-portfolio.pdf](https://www.withaby.com/docs/Aby-DESIGN-portfolio.pdf)
 
-- 📝 I regularly write articles on [https://medium.com/@abywaves](https://medium.com/@abywaves)
+- 📝 I write articles on [https://medium.com/@abywaves](https://medium.com/@abywaves)
 
-- 💬 Ask me about **html, css, UX/product design**
+- 💬 Ask me about **HTML, css, UX/product design**
 
 - 📫 Message me via **<a href="https://www.linkedin.com/in/abywaves/"><img src="https://img.shields.io/badge/abywaves-blue?style=plastic&logo=linkedin"></a>**
 
