@@ -2,8 +2,8 @@
 <h4 align="left">I'm on a journey to rediscover my coding abilities and dive into machine learning</h4>
 <p align="left">
   🌱 I’m currently enhancing my skills in <strong>Python</strong>, <strong>React</strong>, and exploring <strong>Machine Learning</strong><br>
-  💬 Feel free to ask me about <strong>HTML, CSS, JavaScript, Tailwind, React, Python, Java, Machine Learning</strong><br>
-  📫 You can connect with me on <a href="https://www.linkedin.com/in/abywaves/">LinkedIn</a>
+  💬 Feel free to ask me about <strong>HTML, CSS, JavaScript, Tailwind, React, Python</strong><br>
+  📫 You can connect with me on <a href="https://www.linkedin.com/in/abimbolaonline/">LinkedIn</a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
